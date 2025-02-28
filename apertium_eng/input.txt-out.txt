@@ -1,0 +1,4 @@
+^John/John<np><cog><sg>/John<np><ant><m><sg>$ ^might/might<vbmod><inf>/might<vbmod><pres>$ ^have/have<vbmod><inf>/have<vbmod><pres>/have<vbhaver><inf>/have<vbhaver><pres>/have<vblex><inf>/have<vblex><pres>/have<vblex><imp>$ 
+^read/read<adj>/read<n><sg>/read<vblex><inf>/read<vblex><pres>/read<vblex><past>/read<vblex><pp>/read<vblex><imp>$ 
+^this/this<det><dem><sg>/this<prn><dem><mf><sg>/this<prn><rel><an><mf><sp>$
+ ^book/book<n><sg>/book<vblex><inf>/book<vblex><pres>/book<vblex><imp>$^./.<sent>$

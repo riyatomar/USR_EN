@@ -1,0 +1,1 @@
+^acCA/acCA<cat:adj><case:d><gen:m><num:s>/acCA<cat:n><case:d><gen:m><num:s>$
